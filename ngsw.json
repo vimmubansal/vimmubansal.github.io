@@ -10,6 +10,7 @@
         "/favicon.ico",
         "/index.html",
         "/main.8095234d253eaf650193.js",
+        "/manifest.json",
         "/polyfills.662173b507c7bb60d452.js",
         "/runtime.a66f828dca56eeb90e02.js",
         "/styles.a006ff9ecb31fc360851.css"
@@ -46,6 +47,7 @@
     "/favicon.ico": "460fcbd48b20fcc32b184388606af1238c890dba",
     "/index.html": "5facbeb8884a7a2ff7bb02bc2ae31018d08a924b",
     "/main.8095234d253eaf650193.js": "711185acaf733b8e5282dab8e0b1f4a168308649",
+    "/manifest.json": "aa47478404d29a716187378fcfff7761819ad866",
     "/polyfills.662173b507c7bb60d452.js": "8949bb1b1e302dda246f6ed9c2da703270360b1f",
     "/runtime.a66f828dca56eeb90e02.js": "078e320cc6fdaf355836c3b1c52b059cdd33fc7e",
     "/styles.a006ff9ecb31fc360851.css": "38aec49880516f6f187c4c62dc736f9b4ab107c9"
@@ -57,15 +59,15 @@
     },
     {
       "positive": false,
-      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+      "regex": "^\\/(?:.+\\/)?[^\\/]*\\.[^\\/]*$"
     },
     {
       "positive": false,
-      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+      "regex": "^\\/(?:.+\\/)?[^\\/]*__[^\\/]*$"
     },
     {
       "positive": false,
-      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+      "regex": "^\\/(?:.+\\/)?[^\\/]*__[^\\/]*\\/.*$"
     }
   ]
 }
