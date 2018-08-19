@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 50">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        fill: #68db86;
+      }
+    </style>
+  </defs>
+  <g id="Group_36" data-name="Group 36" transform="translate(-693 -196)">
+    <rect id="Rectangle_755" data-name="Rectangle 755" class="cls-1" width="50" height="50" transform="translate(693 196)"/>
+    <g id="success_2_" data-name="success (2)" transform="translate(700 203)">
+      <path id="Path_200" data-name="Path 200" class="cls-2" d="M18,0A18,18,0,1,0,36,18,18.02,18.02,0,0,0,18,0ZM28.035,12,16.958,24.459a1.386,1.386,0,0,1-1.9.161L8.135,19.081a1.385,1.385,0,0,1,1.73-2.163l5.9,4.717,10.2-11.479A1.385,1.385,0,0,1,28.035,12Z"/>
+    </g>
+  </g>
+</svg>
