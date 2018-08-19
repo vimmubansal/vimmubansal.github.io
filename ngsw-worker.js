@@ -2633,7 +2633,7 @@ ${msgIdle}`, { headers: this.adapter.newHeaders({ 'Content-Type': 'text/plain' }
 
     /**
      * @license
-     * Copyright Google Inc. All Rights Reserved.
+     * Copyright Goo
      *
      * Use of this source code is governed by an MIT-style license that can be
      * found in the LICENSE file at https://angular.io/license
