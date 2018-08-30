@@ -70,6 +70,24 @@ var AppComponent = /** @class */ (function () {
     function AppComponent(ref) {
         this.ref = ref;
         this.lastResult = "No Changes";
+        this.config = {
+            inputStream: {
+                size: 800
+            },
+            locator: {
+                patchSize: "medium",
+                halfSample: false
+            },
+            numOfWorkers: 1,
+            decoder: {
+                readers: [{
+                        format: "code_128_reader",
+                        config: {}
+                    }]
+            },
+            locate: true,
+            src: null
+        };
     }
     AppComponent.prototype.ngOnChanges = function (changes) {
         if (changes['lastResult']) {
